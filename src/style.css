@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Colors */
+  --body-bg-clr: hsl(225, 41%, 11%);
+  --main-content-bg-clr: hsl(219, 29%, 18%);
+  --type-text-clr: hsl(239, 72%, 65%);
+  --author-text-clr: hsl(212, 18%, 86%);
+  --body-text-clr: hsl(215, 16%, 65%);
+
+  /* Fonts */
+  --font-family: "Outfit", sans-serif;
+}
+
+body {
+  display: grid;
+  place-items: center;
+
+  font-family: var(--font-family);
+
+  background-color: var(--body-bg-clr);
+
+  padding-inline: 1.25rem;
+  min-height: 100vh;
+}
