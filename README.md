@@ -25,8 +25,8 @@ This is a solution to the [Random Quote Generator Challenge on devchallenges.io]
 
 ## Links
 
-- Solution Links: [Solution Links here](https://solution-links-url.com)
-- Demo Links: [Demo Links here](https://demo-links-url.com)
+- Solution Links: [Solution Links here](https://devchallenges.io/solution/2355)
+- Demo Links: [Demo Links here](https://dev-challenges-random-quote-generator-nine.vercel.app/)
 
 ## Author
 
